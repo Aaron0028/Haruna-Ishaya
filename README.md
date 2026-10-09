@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Haruna (Aarom)
+# 👋 Hi, I'm Haruna (Ghost wolfe)
 
 ### 🛡️ Cybersecurity Student | Aspiring Pentester & Security Analyst
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Breaking+things+to+learn+how+to+secure+them;CTF+Player+%7C+Blue+Team+%2B+Red+Team;Always+learning.+Always+hacking+ethically.)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff9c&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Aaron &color=00ff9c&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/YOUR_ID)
